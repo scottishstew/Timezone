@@ -1,0 +1,7 @@
+C:\TimezoneTest\obj\Debug\Timezone.csproj.CoreCompileInputs.cache
+C:\TimezoneTest\bin\Debug\Timezone.exe.config
+C:\TimezoneTest\bin\Debug\Timezone.exe
+C:\TimezoneTest\bin\Debug\Timezone.pdb
+C:\TimezoneTest\obj\Debug\Timezone.exe
+C:\TimezoneTest\obj\Debug\Timezone.pdb
+C:\TimezoneTest\bin\Debug\Timezone.txt
