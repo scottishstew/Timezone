@@ -23,9 +23,7 @@ namespace Timezone
             //get the zone that best fits the timezone passed in
             var timeZoneToCompare = timeZoneList.Where(i => i.DisplayName.Contains(timezone)).SingleOrDefault();
 
-           //british time zone
-            var ukZone = TimeZoneInfo.FindSystemTimeZoneById("GMT Standard Time");
-
+        
             //if we do not have a time zone to compare with, then dont proceed
             if (timeZoneToCompare != null)
             {
